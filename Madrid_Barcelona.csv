@@ -1,0 +1,19 @@
+,Name,City,Country,IATA,ICAO,TZ,DST,DB_Timezone,Type,Source
+1188,Barcelona International Airport,Barcelona,Spain,BCN,LEBL,1.0,E,Europe/Madrid,airport,OurAirports
+1194,Getafe Air Base,Madrid,Spain,UNKNOWN,LEGT,1.0,E,Europe/Madrid,airport,OurAirports
+1198,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,LEMD,1.0,E,Europe/Madrid,airport,OurAirports
+1214,Torrejón Airport,Madrid,Spain,TOJ,LETO,1.0,E,Europe/Madrid,airport,OurAirports
+1217,Cuatro Vientos,Madrid,Spain,UNKNOWN,LEVS,1.0,E,Europe/Madrid,,Legacy
+6302,Barcelona Cruise Terminal,Barcelona,Spain,UNKNOWN,UNKNOWN,1.0,E,Europe/Madrid,,User
+8046,Atocha,Madrid,Spain,UNKNOWN,MDAT,1.0,E,Europe/Madrid,,User
+8053,Chamartin Station,Madrid,Spain,UNKNOWN,MADC,1.0,E,Europe/Madrid,station,User
+8055,Aeroport,Barcelona,Spain,UNKNOWN,ARPT,1.0,E,Europe/Madrid,,User
+8056,Passeig de Gracia,Barcelona,Spain,UNKNOWN,PGRC,1.0,U,Europe/Madrid,,User
+8057,Sants,Barcelona,Spain,UNKNOWN,BSNT,1.0,E,Europe/Madrid,,User
+8846,Barajas Station,Madrid,Spain,UNKNOWN,UNKNOWN,1.0,E,,station,User
+9156,Aeropuerto T4 Madrid Metro,Madrid,Spain,UNKNOWN,UNKNOWN,1.0,E,,,User
+10033,Estacio de Franca,Barcelona,Spain,YJD,UNKNOWN,1.0,E,,,User
+10264,Placa d Espanya Station,Barcelona,Spain,UNKNOWN,UNKNOWN,1.0,E,,station,User
+10435,Cuatro Vientos Airport,Madrid,Spain,ECV,LECU,,,,airport,OurAirports
+11435,Barcelona-Sants,Barcelona,Spain,UNKNOWN,BCNR,1.0,E,,,
+11437,Madrid Estacion Sur,Madrid,Spain,UNKNOWN,MADB,1.0,E,,,
