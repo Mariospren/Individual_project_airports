@@ -1,4 +1,4 @@
-###Instructions
+### Instructions
 Run the Airports.ipynb file within the Jupyter Notebook environment. Don't forget to press Shift + Enter to execute the code in the cell
 
 ### Useful Shortcuts in Jupyter Notebook
